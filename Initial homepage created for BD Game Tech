@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BD Game Tech</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+      background-color: #f4f4f4;
+    }
+    h1 {
+      color: #0077cc;
+    }
+    p {
+      font-size: 18px;
+      color: #444;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background-color: #0077cc;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+    a.button:hover {
+      background-color: #005fa3;
+    }
+  </style>
+</head>
+<body>
+  <h1>BD Game Tech এ স্বাগতম!</h1>
+  <p>এই ওয়েবসাইটে আপনি Blackjack শেখার ও অনুশীলনের জন্য গেম পাবেন।</p>
+  <a class="button" href="https://play.google.com/store/apps/details?id=your_app_id_here" target="_blank">⏬ অ্যাপ ডাউনলোড করুন</a>
+</body>
+  </html>
